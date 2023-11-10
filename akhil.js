@@ -8,7 +8,3 @@ let lastName = 'Mahesh';
 
 console.log('My name is', firstName, lastName, '\nAlso known as', name);
 console.log('\nFor more about me visit github @RhythmusByte');
-
-// Alert
-
-alert('Hey RhythmusByte');
